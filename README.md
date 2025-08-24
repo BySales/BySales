@@ -58,7 +58,7 @@
         </a>
       </td>
       <td>
-        <img src="https://media1.tenor.com/m/cuw6u4jbOuMAAAAC/cat-work-laptop.gif" alt="Gif do Gato Trabalhando" height="180em" />
+        <img src=""https://github.com/BySales/BySales/blob/main/assets/" alt="Gif do Gato Trabalhando" height="180em" />
       </td>
     </tr>
   </table>
