@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Um Pouco Sobre Mim:
 
-- 🔭 Atualmente trabalhando em **Fountaine, empresa Freelancer criada por mim e mais um companheiro!**
+- 🔭 Atualmente trabalhando em **Fountaine, empresa Freelancer criada por mim e mais um companheiro! @Chris-SM**
 - 🌱 Focado em aprender mais sobre **Django e Design Digital**
 - 📫 Como me achar: **pessoalbysales@gmail.com**
 - 😄 Pronomes: **Ele/Dele**
